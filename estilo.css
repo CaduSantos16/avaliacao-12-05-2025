@@ -100,5 +100,7 @@ address{
     color: white;
 }
 @media screen {
-    
+    header {
+        
+    }
 }
