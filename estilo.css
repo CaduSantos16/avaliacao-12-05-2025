@@ -99,8 +99,8 @@ address{
     background-color: green;
     color: white;
 }
-@media screen {
-    header {
-        kamkmm
-    }
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
 }
